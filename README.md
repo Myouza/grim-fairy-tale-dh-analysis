@@ -68,6 +68,27 @@ This repository demonstrates **Pillar 2**: the Automated Archaeology pipeline th
 
 Single-stage validation cannot establish both properties.
 
+### Pipeline Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        EXTRACTION PIPELINE                       │
+└─────────────────────────────────────────────────────────────────┘
+
+[RPG Maker Game]
+       │
+       ▼ (Data dump — see data/SOURCE.md)
+[EventTextDump.txt]  ←── 84,123 lines of raw event commands
+       │
+       ▼ (LLM prompt — see src/prompts/)
+[narrative_extraction.md]  ←── Arc → Sequence → Beat structure
+       │
+       ▼ (Python analysis — parameterized)
+[Experiments 1-4]  ←── 26 figures, 8 tables, 4 metrics files
+
+Time: ~15 seconds from extracted data to publication-ready outputs
+```
+
 ---
 
 ## What This Repository Demonstrates
@@ -135,8 +156,17 @@ This pilot study opens several research paths I plan to pursue:
 grim-fairy-tale-dh-analysis/
 ├── README.md                    # This file
 ├── CAVEATS.md                   # Interpretation guidelines
-├── data/                        # Extracted game data
-├── src/                         # Analysis modules
+├── data/
+│   ├── EventTextDump.txt        # Raw extracted event data
+│   ├── narrative_extraction.md  # LLM-generated narrative structure
+│   ├── SOURCE.md                # Data provenance and attribution
+│   └── *.json                   # Reference data for experiments
+├── src/
+│   ├── prompts/                 # LLM prompts used in extraction
+│   │   └── NarrativeExtraction_Prompt_v2.md
+│   ├── parsers.py               # Data parsing utilities
+│   ├── experiment_*.py          # Individual experiments
+│   └── visualization.py         # Plotting utilities
 ├── outputs/                     # Generated figures, tables, metrics
 ├── notebooks/                   # Interactive exploration
 └── docs/
@@ -170,6 +200,7 @@ The goal is a complete pipeline from raw game binaries through mathematically ve
 - **Stability Analysis**: Lipschitz bounds for Word Mover's Distance (portfolio)
 - **Songs of Memory**: 300k-word narrative RPG and Game Design Document (portfolio)
 - **JMM 2026 Presentation**: Fast Inverse Square Root optimization
+- **Source Game**: [https://rpg.blue/thread-164657-1-1.html](https://rpg.blue/thread-164657-1-1.html)
 
 ## Author
 
