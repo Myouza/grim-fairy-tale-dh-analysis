@@ -1,4 +1,4 @@
-# 小红帽 (Little Red Riding Hood): Forensic Ludology Pilot Study
+# 废土小红帽 (Apocalyptic Little Red Riding Hood): Forensic Ludology Pilot Study
 
 **Stage 2 Validation: Blind Replication of the Automated Archaeology Pipeline**
 
@@ -51,7 +51,7 @@ This repository demonstrates **Pillar 2**: the Automated Archaeology pipeline th
 
 **Status**: Presentable. See [portfolio](https://myouza.github.io/phd-portfolio/) for methodology and Game Design Document. Further expansion possible.
 
-### Stage 2: Blind Replication (*小红帽*) — This Repository
+### Stage 2: Blind Replication (*废土小红帽*) — This Repository
 
 **Game**: An undocumented RPG Maker game from the 66rpg.com community.
 

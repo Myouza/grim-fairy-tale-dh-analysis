@@ -2,7 +2,7 @@
 
 ## Original Game
 
-**Title**: 废土小红帽 (Apocalyptic Little Red Riding Hood) 
+**Title**: 废土小红帽 (Apocalyptic Little Red Riding Hood)
 
 **Source**: [https://rpg.blue/thread-164657-1-1.html](https://rpg.blue/thread-164657-1-1.html)
 
