@@ -1,0 +1,122 @@
+{
+  "total_maps": 162,
+  "mean_density": 0.154,
+  "median_density": 0.1111,
+  "std_density": 0.1483,
+  "min_density": 0.0,
+  "max_density": 0.6481,
+  "story_heavy_count": 0,
+  "mixed_count": 27,
+  "combat_traversal_count": 135,
+  "story_heavy_pct": 0.0,
+  "mixed_pct": 16.67,
+  "combat_traversal_pct": 83.33,
+  "total_dialogue_commands": 2415,
+  "total_battle_commands": 449,
+  "total_logic_commands": 789,
+  "total_all_commands": 13937,
+  "top_story_maps": [
+    {
+      "map_id": 86,
+      "map_name": "武装部-往事",
+      "narrative_density": 0.6481
+    },
+    {
+      "map_id": 26,
+      "map_name": "荒野-针针镇",
+      "narrative_density": 0.6087
+    },
+    {
+      "map_id": 17,
+      "map_name": "荒野",
+      "narrative_density": 0.6
+    },
+    {
+      "map_id": 6,
+      "map_name": "房间",
+      "narrative_density": 0.561
+    },
+    {
+      "map_id": 1,
+      "map_name": "营地",
+      "narrative_density": 0.5269
+    },
+    {
+      "map_id": 13,
+      "map_name": "客车车厢",
+      "narrative_density": 0.4653
+    },
+    {
+      "map_id": 34,
+      "map_name": "奔跑",
+      "narrative_density": 0.4516
+    },
+    {
+      "map_id": 161,
+      "map_name": "火车2来",
+      "narrative_density": 0.4308
+    },
+    {
+      "map_id": 18,
+      "map_name": "献血",
+      "narrative_density": 0.4091
+    },
+    {
+      "map_id": 38,
+      "map_name": "针针镇-战斗结束",
+      "narrative_density": 0.4086
+    }
+  ],
+  "top_combat_maps": [
+    {
+      "map_id": 4,
+      "map_name": "1F",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 21,
+      "map_name": "货车车厢",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 24,
+      "map_name": "货车-战斗",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 29,
+      "map_name": "荒野",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 31,
+      "map_name": "荒野-废墟",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 33,
+      "map_name": "光弹",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 40,
+      "map_name": "尖尖镇",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 42,
+      "map_name": "门厅",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 51,
+      "map_name": "尖尖镇",
+      "narrative_density": 0.0
+    },
+    {
+      "map_id": 52,
+      "map_name": "火车",
+      "narrative_density": 0.0
+    }
+  ]
+}

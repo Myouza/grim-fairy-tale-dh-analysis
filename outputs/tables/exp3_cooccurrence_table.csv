@@ -1,0 +1,21 @@
+Entity/Theme 1,Entity/Theme 2,Co-occurrence Count,Type 1,Type 2
+外婆,小红帽,47,entity,entity
+灰姑娘,狼人,46,entity,entity
+小红帽,狼人,41,entity,entity
+吸血鬼,血,38,entity,theme
+感染,灰姑娘,31,theme,entity
+狼人,血,20,entity,theme
+感染,狼人,19,theme,entity
+死,狼人,17,theme,entity
+狼人,病毒,16,entity,theme
+吸血鬼,狼人,15,entity,entity
+小红帽,血,14,entity,theme
+死,灰姑娘,14,theme,entity
+妈妈,小红帽,13,entity,entity
+团长,小红帽,13,entity,entity
+中尉,感染,12,entity,theme
+团长,外婆,11,entity,entity
+感染,病毒,11,theme,theme
+小红帽,死,10,entity,theme
+死,血,10,theme,theme
+妈妈,小男孩,9,entity,entity

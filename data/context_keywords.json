@@ -1,0 +1,181 @@
+{
+  "entities": [
+    "小红帽",
+    "团长",
+    "妈妈",
+    "外婆",
+    "大洋国",
+    "欧亚国",
+    "中尉",
+    "灰姑娘",
+    "白雪",
+    "狼人",
+    "吸血鬼",
+    "士兵",
+    "中士",
+    "列车员",
+    "小男孩",
+    "连长",
+    "机器人",
+    "李霞",
+    "元帅父亲",
+    "和平委员会"
+  ],
+  "themes": [
+    "血",
+    "病毒",
+    "宣传",
+    "饥饿",
+    "战争",
+    "感染",
+    "基因",
+    "命令",
+    "死",
+    "罐头",
+    "回家",
+    "火车",
+    "荒野",
+    "变异",
+    "核辐射"
+  ],
+  "motif_contexts": {
+    "innocence": [
+      "外婆",
+      "罐头",
+      "家",
+      "想你",
+      "梦见",
+      "回来",
+      "小时候",
+      "礼物",
+      "温暖",
+      "安全"
+    ],
+    "military": [
+      "团长",
+      "战斗",
+      "狼人",
+      "士兵",
+      "命令",
+      "战争",
+      "敌人",
+      "营地",
+      "军队",
+      "杀"
+    ],
+    "posthuman": [
+      "血",
+      "病毒",
+      "基因",
+      "吸血鬼",
+      "感染",
+      "培育",
+      "死",
+      "咬人",
+      "变异",
+      "怪物"
+    ]
+  },
+  "game_beats": [
+    {
+      "arc": "1.1",
+      "sequence": "1.1.2",
+      "map_id": 1,
+      "event_id": 6,
+      "line": 252,
+      "type": "heroic_act",
+      "description": "Little Red killed two large werewolves in battle",
+      "text_cn": "刚才的战斗中，你一个人杀死了两只大狼人"
+    },
+    {
+      "arc": "1.1",
+      "sequence": "1.1.2",
+      "map_id": 1,
+      "event_id": 6,
+      "line": 258,
+      "type": "reward",
+      "description": "Commander grants permission to visit grandmother",
+      "text_cn": "那我就批准你回家看外婆"
+    },
+    {
+      "arc": "1.1",
+      "sequence": "1.1.2",
+      "map_id": 1,
+      "event_id": 6,
+      "line": 266,
+      "type": "departure",
+      "description": "Little Red leaves camp with deadline to return",
+      "text_cn": "你必须在明天日出前赶回来"
+    },
+    {
+      "arc": "1.2",
+      "sequence": "1.2.1",
+      "map_id": 2,
+      "event_id": 3,
+      "line": 800,
+      "type": "obligation",
+      "description": "Promise to deliver soldier Wang Dong's letter and soap to his wife Li Xia",
+      "text_cn": "把这封信和肥皂带给我的妻子李霞"
+    },
+    {
+      "arc": "1.2",
+      "sequence": "1.2.3",
+      "map_id": 7,
+      "event_id": 5,
+      "line": 4200,
+      "type": "companion_encounter",
+      "description": "Little Red meets young boy on train",
+      "text_cn": "小男孩跟随小红帽"
+    },
+    {
+      "arc": "1.2",
+      "sequence": "1.2.4",
+      "map_id": 15,
+      "event_id": 8,
+      "line": 6800,
+      "type": "journey_delay",
+      "description": "Helps villagers defend against wolves",
+      "text_cn": "帮助村民抵御狼群"
+    },
+    {
+      "arc": "1.2",
+      "sequence": "1.2.2",
+      "map_id": 2,
+      "event_id": 18,
+      "line": 1050,
+      "type": "obligation_fulfilled",
+      "description": "Delivers letter and soap to Li Xia",
+      "text_cn": "这是王东让我带给你的"
+    },
+    {
+      "arc": "1.3",
+      "sequence": "1.3.1",
+      "map_id": 41,
+      "event_id": 5,
+      "line": 21443,
+      "type": "reunion",
+      "description": "Little Red reunites with grandmother",
+      "text_cn": "外婆！我的小红帽"
+    },
+    {
+      "arc": "1.3",
+      "sequence": "1.3.2",
+      "map_id": 41,
+      "event_id": 5,
+      "line": 21550,
+      "type": "farewell",
+      "description": "Little Red must leave grandmother to return to duty",
+      "text_cn": "我必须在日出前赶回去"
+    },
+    {
+      "arc": "1.3",
+      "sequence": "1.3.3",
+      "map_id": 1,
+      "event_id": 6,
+      "line": 22000,
+      "type": "return",
+      "description": "Returns to military camp before deadline",
+      "text_cn": "小红帽回到营地"
+    }
+  ]
+}

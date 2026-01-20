@@ -1,0 +1,25 @@
+{
+  "total_film_beats": 13,
+  "total_game_beats": 10,
+  "matched_beats": 10,
+  "unmatched_beats": 3,
+  "alignment_score_percent": 76.92,
+  "direct_transpositions": 4,
+  "structural_homologies": 6,
+  "beat_types_present": 10,
+  "total_beat_types": 12,
+  "beat_type_matches": {
+    "Companion Encounter": 1,
+    "Companion Separation": 0,
+    "Departure": 1,
+    "Epilogue": 0,
+    "Farewell": 1,
+    "Heroic Act": 1,
+    "Journey Delay": 1,
+    "Obligation": 1,
+    "Obligation Fulfilled": 1,
+    "Return": 1,
+    "Reunion": 1,
+    "Reward": 1
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": "00:03:20",
+    "description": "Alyosha destroys two enemy tanks",
+    "type": "heroic_act",
+    "notes": "Opening action sequence establishing protagonist as skilled soldier"
+  },
+  {
+    "timestamp": "00:05:40",
+    "description": "Commander grants leave to visit mother",
+    "type": "reward",
+    "notes": "Establishes journey motivation - brief furlough as reward for bravery"
+  },
+  {
+    "timestamp": "00:10:15",
+    "description": "Departure from military base",
+    "type": "departure",
+    "notes": "Journey begins with deadline established"
+  },
+  {
+    "timestamp": "00:18:30",
+    "description": "Promises comrade to deliver soap to his wife",
+    "type": "obligation",
+    "notes": "First delay/obligation acquired - promise to fellow soldier"
+  },
+  {
+    "timestamp": "00:25:00",
+    "description": "Meets Shura on the train",
+    "type": "companion_encounter",
+    "notes": "Female companion joins journey"
+  },
+  {
+    "timestamp": "00:32:15",
+    "description": "Helps repair damaged train track",
+    "type": "journey_delay",
+    "notes": "Helps strangers in need, delays his journey"
+  },
+  {
+    "timestamp": "00:45:12",
+    "description": "Delivers soap to comrade's wife",
+    "type": "obligation_fulfilled",
+    "notes": "First obligation completed, discovers wife's infidelity"
+  },
+  {
+    "timestamp": "00:55:30",
+    "description": "Helps disabled veteran and his wife",
+    "type": "journey_delay",
+    "notes": "Compassion for wounded soldier delays journey further"
+  },
+  {
+    "timestamp": "01:02:30",
+    "description": "Separated from Shura during air raid",
+    "type": "companion_separation",
+    "notes": "Romantic subplot ends in separation"
+  },
+  {
+    "timestamp": "01:18:45",
+    "description": "Brief encounter with mother in village",
+    "type": "reunion",
+    "notes": "Only minutes with mother before must return to duty"
+  },
+  {
+    "timestamp": "01:22:00",
+    "description": "Mother watches son depart",
+    "type": "farewell",
+    "notes": "Emotional farewell scene with mother"
+  },
+  {
+    "timestamp": "01:25:00",
+    "description": "Returns to military duty",
+    "type": "return",
+    "notes": "Circular journey structure - returns to war"
+  },
+  {
+    "timestamp": "01:27:00",
+    "description": "Narrator reveals Alyosha never returned",
+    "type": "epilogue",
+    "notes": "Frame narrative reveals soldier's death"
+  }
+]

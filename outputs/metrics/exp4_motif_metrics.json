@@ -1,0 +1,61 @@
+{
+  "motif": "小红帽",
+  "total_instances": 380,
+  "unique_arcs": 5,
+  "military_total_pct": 13.16,
+  "posthuman_total_pct": 4.74,
+  "neutral_total_pct": 63.42,
+  "innocence_total_pct": 18.68,
+  "initial_dominant": "Neutral",
+  "final_dominant": "Neutral",
+  "innocence_shift": -13.8,
+  "military_shift": 21.9,
+  "posthuman_shift": -2.4,
+  "arc_evolution": [
+    {
+      "Arc": "1.1 (Camp)",
+      "Innocence %": 13.8,
+      "Military %": 11.4,
+      "Posthuman %": 2.4,
+      "Neutral %": 72.4,
+      "Total Instances": 123,
+      "Dominant Context": "Neutral"
+    },
+    {
+      "Arc": "1.2 (Journey)",
+      "Innocence %": 8.6,
+      "Military %": 18.0,
+      "Posthuman %": 7.9,
+      "Neutral %": 65.5,
+      "Total Instances": 139,
+      "Dominant Context": "Neutral"
+    },
+    {
+      "Arc": "1.3 (Grandmother)",
+      "Innocence %": 31.3,
+      "Military %": 8.4,
+      "Posthuman %": 4.8,
+      "Neutral %": 55.4,
+      "Total Instances": 83,
+      "Dominant Context": "Neutral"
+    },
+    {
+      "Arc": "2.x (Cinderella)",
+      "Innocence %": 55.2,
+      "Military %": 6.9,
+      "Posthuman %": 0.0,
+      "Neutral %": 37.9,
+      "Total Instances": 29,
+      "Dominant Context": "Innocence"
+    },
+    {
+      "Arc": "3.x (Snow White)",
+      "Innocence %": 0.0,
+      "Military %": 33.3,
+      "Posthuman %": 0.0,
+      "Neutral %": 66.7,
+      "Total Instances": 6,
+      "Dominant Context": "Neutral"
+    }
+  ]
+}
